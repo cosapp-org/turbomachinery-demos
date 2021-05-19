@@ -1,0 +1,6 @@
+name: cosapp-turbo
+channels:
+  - conda-forge
+dependencies:
+  - cosapp
+  - jupyterlab
