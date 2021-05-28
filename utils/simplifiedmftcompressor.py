@@ -6,7 +6,6 @@ class SimplifiedMftCompressor:
     Pstd = 101325.
     Tstd = 288.15
 
-
     def __init__(self):
         self._phi = 1.
         self._psi = 1.
